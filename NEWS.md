@@ -1,6 +1,7 @@
 # tidyverse (development version)
 
 * tidyverse now requires R 4.0.0.
+* tidyverse now installs duckplyr (@krlmlr, #344).
 
 # tidyverse 2.0.0
 
